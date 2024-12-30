@@ -4,8 +4,7 @@ The codes for the 2024-25 Into The Deep season. Made by the Robotechs for their 
 
 
 
-<h2> Codes in this repo: </h2>)
-
+<h2> Codes in this repo: </h2>
 Tele-Op (FINAL)
 - Our Tele-Op code
 
